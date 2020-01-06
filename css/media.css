@@ -1,0 +1,27 @@
+/*start mobile media*/
+@media(max-width: 767px)
+{
+.navbar-inverse .navbar-nav>li>a
+	{
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+.subscribe .form-inline input{
+	margin-bottom: 15px;
+}
+.footer .four-images{
+	text-align: center;
+}
+} 
+/*small screen*/
+@media(min-width: 786px)and (max-width: 991px){
+
+}
+/*medium screen*/
+@media(min-width: 992px)and(max-width: 1199px){
+
+}
+/*large screen*/
+@media(min-width: 1200px){
+
+}

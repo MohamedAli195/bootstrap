@@ -1,0 +1,25 @@
+.tool-option .color-box,
+.testimonials .carousel-indicators li,
+.dropdown-menu{
+	border: 3px solid #11d505;
+	
+}
+.tool-option i,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.carousel-indicators .active,
+.dropdown-menu>li>a:focus,
+ .dropdown-menu>li>a:hover
+{
+	background-color: #11d505
+}
+.about h1 span,
+.testimonials span{
+	color: #11d505
+}
+.footer .copyright span,
+.footer h2,
+.navbar-brand span{
+	color: #11d505;
+}
